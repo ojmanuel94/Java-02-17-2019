@@ -1,0 +1,27 @@
+1) menu 
+- view all
+- add student 
+- edit student 
+- delete student 
+- exit 
+2.1 view all
+-iterate the student record array 
+-show student info
+-go back to menu 
+2.2 
+-show form 
+-button to add 
+-button to go back
+
+2.2.1 add 
+ - add student student to the las of the array 
+2.3 edit student 
+-show all students 
+-ask id 
+-show form
+-button to save 
+-button to go back 
+2.4 delete student 
+-show all students 
+-ask id 
+-delete student 
